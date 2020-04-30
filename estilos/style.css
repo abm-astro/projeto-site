@@ -3,20 +3,28 @@
 }
 
 body {
-    background-color: darkblue;
+    background-color: rgb(36, 36, 248);
 
 }
 
 h1 {
     text-align: center;
-    
+}
+
+header {
+    padding: 0px;
 }
 
 main {
     background-color: white;
     width: 500px;
-    padding: 10px;
+    padding: 9px;
     border-radius: 20px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.418);
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
 }
