@@ -30,13 +30,15 @@ nav.menu li {
     padding: 5px;
     margin: 5px;
     border-radius: 4px;
-    transition: padding 0.5s;
-    transition-delay: margin 0.4s;
+    transition: 0.4s;
 }
 
 nav.menu li:hover {
     padding: 7px;
     margin: 6px;
+    background-color: black;
+    color: crimson;
+
     
 }
 
